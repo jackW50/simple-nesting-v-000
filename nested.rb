@@ -1,4 +1,4 @@
-
+require 'pry'
 def hopper
 	programmer_hash = 
  		{
@@ -131,5 +131,5 @@ def adding_to_dennis
         }
      }
   programmer_hash[:dennis_ritchie][:languages] = ["C", "Assembly"]
-  programmer_hash 
+  programmer_hash
 end
